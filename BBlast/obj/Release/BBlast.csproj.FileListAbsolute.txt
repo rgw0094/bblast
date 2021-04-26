@@ -1,0 +1,16 @@
+D:\Programming\BBlast\BBlast\obj\Release\ResolveAssemblyReference.cache
+D:\Programming\BBlast\BBlast\obj\Release\BBlast.Properties.Resources.resources
+D:\Programming\BBlast\BBlast\obj\Release\BBlast.csproj.GenerateResource.Cache
+D:\Programming\BBlast\BBlast\bin\Release\BBlast.exe
+D:\Programming\BBlast\BBlast\bin\Release\BBlast.pdb
+D:\Programming\BBlast\BBlast\obj\Release\BBlast.exe
+D:\Programming\BBlast\BBlast\obj\Release\BBlast.pdb
+D:\Programming\BBlast\BBlast\obj\Release\BBlast.BBlast.resources
+C:\Files\Programming\BBlast\BBlast\obj\Release\ResolveAssemblyReference.cache
+C:\Files\Programming\BBlast\BBlast\obj\Release\BBlast.Properties.Resources.resources
+C:\Files\Programming\BBlast\BBlast\obj\Release\BBlast.csproj.GenerateResource.Cache
+C:\Files\Programming\BBlast\BBlast\obj\Release\BBlast.exe
+C:\Files\Programming\BBlast\BBlast\bin\Release\BBlast.exe
+C:\Files\Programming\BBlast\BBlast\bin\Release\BBlast.pdb
+C:\Files\Programming\BBlast\BBlast\obj\Release\BBlast.pdb
+C:\Files\Programming\BBlast\BBlast\obj\Release\RhinoMocks.BBlast.resources
